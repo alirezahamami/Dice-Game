@@ -1,0 +1,22 @@
+.first {height: 300px;
+margin-right: 100px;
+}
+
+.second {height: 300px;
+
+}
+
+body {text-align: center;
+background-color: #EEF3D2}
+
+h1 {margin-top: 20px;
+  font-size: 4rem;
+font-family: 'Koulen', cursive;
+}
+h3 { font-family: 'Koulen', cursive;
+font-size: 2rem;}
+
+.Alireza {display: inline;
+margin: 0 300px 0 0;}
+.Soraya {display: inline;
+}
